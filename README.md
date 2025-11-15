@@ -12,6 +12,8 @@
 <img width="2000" height="1000" alt="PythonEssentials1" src="https://github.com/user-attachments/assets/abf78bca-7bec-4fbc-880a-c6e8d1305bf0" />
 <img width="2000" height="1000" alt="Python for Data Science" src="https://github.com/user-attachments/assets/da6afaed-e9f5-482a-9050-f4df75326949" />
 <img width="2000" height="1000" alt="IntrotoModernAI" src="https://github.com/user-attachments/assets/1ebbc427-4f77-4f3e-8756-682ebec877f3" />
+<img width="2000" height="1000" alt="SQL" src="https://github.com/user-attachments/assets/fbe52270-eedf-4c66-bf67-f1fda5a2a54b" />
+<img width="2000" height="1000" alt="Tableau" src="https://github.com/user-attachments/assets/6256996f-5d6b-4f29-8c47-4658d16087e8" />
 
 # Badges
 
