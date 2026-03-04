@@ -1,5 +1,6 @@
 # Certificates
 
+<img width="2000" height="1000" alt="data-visualization-using-python Certificate" src="https://github.com/user-attachments/assets/c21a9dcb-0c9e-4bfe-be46-6fd43b919ee5" />
 <img width="2000" height="1000" alt="IntrotoDataScience" src="https://github.com/user-attachments/assets/4592b5da-d701-4ea8-ac8d-f0f1db4894be" />
 <img width="2000" height="1000" alt="IBM Data Analysis Using Python" src="https://github.com/user-attachments/assets/b09cdd4d-d1f4-43ee-826d-cc45582b1b7c" />
 <img width="2000" height="1000" alt="IBM AI Fundamentals" src="https://github.com/user-attachments/assets/0de8da5e-cd48-4b73-b134-e43a0a38d80e" />
@@ -17,6 +18,7 @@
 
 # Badges
 
+<img width="500" height="500" alt="data-visualization-using-python" src="https://github.com/user-attachments/assets/c3793f7b-e282-484b-b81c-3eca430cb990" />
 <img width="500" height="500" alt="microsoft-power-up-program-low-code-maker-course-co" src="https://github.com/user-attachments/assets/c5ff064b-9abe-47b3-9929-bf55999f4215" />
 <img width="500" height="500" alt="microsoft-power-up-program-power-platform-adventure" src="https://github.com/user-attachments/assets/0cb0e3f8-82ea-464a-8331-7ecf6eb4cc01" />
 <img width="500" height="500" alt="python-for-data-science" src="https://github.com/user-attachments/assets/4b0ba356-eab1-404c-b3a3-c8d510b9d0ba" />
